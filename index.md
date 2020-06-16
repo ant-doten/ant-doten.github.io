@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Home
+nav_order: 1
+description: "PLD450 - NAU - Applied IT Project"
+permalink: /home
+---
 
-You can use the [editor on GitHub](https://github.com/ant-doten/ant-doten.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Northern Arizona University
+{: .fs-8 }
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# PLD450 - Applied IT Project
+{: .fs-6 .fw-500 }
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
+## Introduction
 
-```markdown
-Syntax highlighted code block
+Hello viewer, and thank you for checking out this page. On this site, you’ll find information for NAU course PLD450, Applied IT Project. This project looks at a hypothetical situation an organization is facing with mobile devices.
 
-# Header 1
-## Header 2
-### Header 3
+## Mobile Device Management (MDM) - Background
 
-- Bulleted
-- List
+Mobile devices in the workplace can be an incredibly powerful tool that can transform our workplaces. Today, many employees own a form of mobile device that is continuously available to them (e.g., smartphone, tablet, etc.) To facilitate seamless delivery of business resources to an employee’s device, Information Technology has implemented a proof of concept pilot program at the directive of leadership to see how Mobile Device Management (MDM) will work within the organization. Below, you’ll find information on enrolling your device into this pilot program. (Information shown is hypothetical and based off of a live production environment.)
 
-1. Numbered
-2. List
+## Information Technology – MDM Pilot Program
 
-**Bold** and _Italic_ and `Code` text
+On the side columns of this site, you’ll find a ‘Self-Enrollment’ page. Within this page, you’ll find two entries (i.e., Android, Apple); based on your device manufacturer, please select the corresponding entry, and you’ll discover an on-screen walkthrough for enrolling your device into our MDM pilot program.  
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ant-doten/ant-doten.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
