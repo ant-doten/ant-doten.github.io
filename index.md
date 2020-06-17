@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 description: "PLD450 - NAU - Applied IT Project"
-permalink: /home
+permalink: /
 ---
 
 # Northern Arizona University
