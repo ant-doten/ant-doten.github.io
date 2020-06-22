@@ -3,6 +3,7 @@ layout: default
 title: Apple iOS
 parent: Self-Enrollment
 nav_order: 2
+permalink: /docs/self-enrollment/apple
 ---
 
 # Self-Enrollment - Apple iOS
