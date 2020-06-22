@@ -11,5 +11,5 @@ permalink: /docs/self-enrollment/android
 ### Thank you for your participation in our Mobile Device Management (MDM) pilot program. Your participation and feedback in this pilot will provide valuable information to the Information Technology department. If you have any questions, concerns, or general feedback please email us at AndroidBYODPilot@xyz.com
 
 
-Mobile Device Managment Pilot - Enrollment Guide
+Mobile Device Managment Pilot - Enrollment Guide (Under Construction)
 {: .fs-5 .fw-700 }
