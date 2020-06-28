@@ -6,4 +6,4 @@ has_children: true
 permalink: /docs/self-enrollment
 ---
 
-### Thank you for participating in our Mobile Device Management (MDM) pilot. Currently, we’re piloting Android OS and Apple iOS devices.  Please select the appropriate guide below based on your devices' respective Operating System (OS).
+### Thank you for participating in our Bring Your Own Device (BYOD) pilot. Currently, we’re piloting Android OS and Apple iOS devices.  Please select the appropriate guide below based on your devices' respective Operating System (OS).
