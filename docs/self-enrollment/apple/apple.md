@@ -8,10 +8,10 @@ permalink: /docs/self-enrollment/apple
 
 # Self-Enrollment - Apple iOS
 
-### Thank you for your participation in our Mobile Device Management (MDM) pilot program. Your participation and feedback in this pilot will provide valuable information to the Information Technology department. If you have any questions, concerns, or general feedback please email us at AppleBYODPilot@xyz.com
+### Thank you for your participation in our Bring Your Own Device (BYOD) pilot program. Your participation and feedback in this pilot will provide valuable information to the Information Technology department. If you have any questions, concerns, or general feedback please email us at AppleBYODPilot@xyz.com
 
 
-Mobile Device Managment Pilot - Enrollment Guide
+Bring Your Own Device (BYOD) Pilot - Enrollment Guide
 {: .fs-5 .fw-700 }
 
 #### 0. Apple App Store
@@ -79,8 +79,8 @@ Mobile Device Managment Pilot - Enrollment Guide
 #### 7. Hub Application - Privacy
 
 ```
-- Select 'We don't collect' to understand what information isn't collected by MDM
-- Select 'We may collect' to understand what MDM may collect
+- Select 'We don't collect' to understand what information isn't collected by 'Hub'
+- Select 'We may collect' to understand what 'Hub' may collect
 - Select 'Next'
 ```
 
@@ -169,7 +169,7 @@ Mobile Device Managment Pilot - Enrollment Guide
 #### 18. Hub Application - Organizational Resources
 
 ```
-- Select 'Next' in 'Hub' Application Prompt
+- Select 'Done' in 'Hub' Application Prompt
 ```
 
 <img src="/assets/images/apple/apple-mdm-18.png" alt="Hub IT Resources" style="width:275px;height:470px;">
@@ -201,7 +201,7 @@ Mobile Device Managment Pilot - Enrollment Guide
 #### 21. Hub Application - Enrollment Complete
 
 ```
-- Congratulations, your phone has been enrolled in the MDM pilot program!
+- Congratulations, your phone has been enrolled in our BYOD pilot program!
 ```
 
 <img src="/assets/images/apple/apple-mdm-22.png" alt="Hub Enrollment Complete" style="width:275px;height:470px;">
