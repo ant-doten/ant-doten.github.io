@@ -79,6 +79,7 @@ Bring Your Own Device (BYOD) Pilot - Enrollment Guide
 
 ```
 - Select 'Employee Owned'
+- Select 'Next'
 ```
 
 <img src="/assets/images/android/android-mdm-07.png" alt="Hub Application - Ownership" style="width:250px;height:470px;">
