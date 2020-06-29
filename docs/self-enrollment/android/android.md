@@ -38,7 +38,6 @@ Bring Your Own Device (BYOD) Pilot - Enrollment Guide
 ```
 
 <img src="/assets/images/android/android-mdm-02.png" alt="Play Store - Intelligent Hub" style="width:250px;height:470px;">
-{: .
 
 #### 3. Play Store - Intelligent Hub Install Complete
 
